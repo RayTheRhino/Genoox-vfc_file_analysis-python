@@ -1,0 +1,23 @@
+{
+    "data_url": "https://resources.genoox.com.s3.amazonaws.com/homeAssingment/demo_vcf_multisample.vcf.gz",
+    "API_URL": "https://test.genoox.com/api/fetch_variant_details",
+    "max_limit":10,
+    "start": 10000,
+    "end": 2500000,
+    "limit": 7,
+    "minDP": 10,
+    "file_path" : "demo_vcf_multisample.vcf",
+    "chrom" : 0, 
+    "pos" : 1,
+    "id" : 2,
+    "ref" : 3,
+    "alt": 4,
+    "qual": 5 ,
+    "filter": 6,
+    "info": 7,
+    "format": 8,
+    "cache_file" : "cache_data.json",
+    "progress_file": "progress_file.json"
+
+    
+}
